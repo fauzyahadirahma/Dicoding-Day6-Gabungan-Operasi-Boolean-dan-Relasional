@@ -1,2 +1,2 @@
-# Dicoding-Day6-Gabungan-Operasi-Boolean-dan-Relasional
+# Dicoding-Day7-Gabungan-Operasi-Boolean-dan-Relasional
 contoh perbandingan nilai numerik dengan menggabungkan pemakaian operator
